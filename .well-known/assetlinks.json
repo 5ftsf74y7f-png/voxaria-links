@@ -1,0 +1,16 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.voxaria.voxaria",
+      "sha256_cert_fingerprints": [
+        "A9:B4:E5:2F:E2:B0:B3:51:FD:33:B7:90:42:6F:22:C4:BB:1F:21:71:36:F2:F1:77:99:12:4F:19:F1:B9:7B:76",
+        "69:C4:79:C1:05:88:16:1F:1E:A6:4C:F1:70:95:AB:A1:AB:2B:2A:BA:93:BF:8D:B7:CE:30:2F:9D:E5:06:4C:61",
+        "C8:EF:84:B0:C8:A3:3E:B7:65:A4:19:8A:59:DE:30:25:1D:49:D7:1A:C8:0A:E1:CF:FE:6C:B3:61:D8:CD:65:4B",
+        "65:3E:CE:2F:AF:4A:F3:F6:26:3E:AE:69:5F:EC:B5:38:10:83:E9:69:6B:A8:AE:60:A9:C3:53:CA:18:51:21:8D",
+        "EB:BC:9C:81:FD:22:09:02:D1:77:F7:2A:56:55:8E:0F:84:D2:3E:F5:98:91:B7:34:68:F7:74:C3:FA:ED:E1:5F"
+      ]
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["Y99378K75P.com.voxaria.Voxaria"],
+        "components": [
+          { "/": "/r", "comment": "A reminder sent as a link; the reminder is the text after the #" }
+        ]
+      }
+    ]
+  }
+}
